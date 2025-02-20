@@ -1,0 +1,9 @@
+bool hello;
+int c,c1,c2;
+float f2;
+int main() {
+    int x, a = 2.1, b = 3, c = 5;
+    x = a + b * c;
+    bool        b;
+    return 0;
+}
